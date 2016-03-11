@@ -1,0 +1,33 @@
+{
+  "name": "g4m-checkout",
+  "version": "0.0.1",
+  "description": "A Redux solution of the checkout process for Gear4Music.",
+  "main": "checkout",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "redux",
+    "g4m",
+    "react",
+    "javascript"
+  ],
+  "author": "Johnny Magrippis <j@magrippis.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.7.0",
+    "babel-eslint": "^5.0.0",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "eslint": "^2.3.0",
+    "eslint-loader": "^1.3.0",
+    "eslint-plugin-react": "^4.2.1",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "react-redux": "^4.4.0",
+    "redux": "^3.3.0",
+    "webpack": "^1.0.0",
+    "webpack-dev-server": "^1.0.0"
+  }
+}
